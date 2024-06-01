@@ -9,6 +9,9 @@
 - deploying project using firebase
 - Create sign up/sign in user account firebase
 - create redux store and userSlice
+- implemented signout
+- redirect /browse to login page if not logged in and vice-versa
+- unsubscribe to onAuthStateChanged
 
 # features
 - login /signup page
