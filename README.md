@@ -12,6 +12,7 @@
 - implemented signout
 - redirect /browse to login page if not logged in and vice-versa
 - unsubscribe to onAuthStateChanged
+- API fetching from TMDb 
 
 # features
 - login /signup page

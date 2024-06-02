@@ -1,7 +1,9 @@
+import useNowPlayingMovies from "../customHooks/useNowPlayingMovies"
 import Header from "./Header"
-import { useSelector } from "react-redux"
+
 
 const Browse = ()=>{
+    useNowPlayingMovies();
     return (
         <div>
             <Header/>
